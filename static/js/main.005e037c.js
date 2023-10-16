@@ -7927,7 +7927,7 @@
                     return (0, u.jsxs)("div", {
                         className: C,
                         children: [(0, u.jsx)(s, {
-                            backText: "About US",
+                            // backText: "About US",
                             "data-aos": "fade-up",
                             children: "About Us"
                         }), (0, u.jsxs)("div", {
@@ -8000,7 +8000,7 @@
                     return (0, u.jsxs)("div", {
                         className: z,
                         children: [(0, u.jsx)(s, {
-                            backText: "Glimpses",
+                            // backText: "Glimpses",
                             children: "Glimpses"
                         }), (0, u.jsx)("div", {
                             className: M,
@@ -8075,67 +8075,67 @@
                                 className: "timeline",
                                 children: [(0, u.jsxs)("li", {
                                     className: "event",
-                                    "data-date": "10:00 AM - 10:15 AM",
+                                    "data-date": "10:00 AM - 12:00 AM",
                                     "data-aos": "fade-up",
                                     children: [(0, u.jsx)("h3", {
-                                        children: "Inauguration"
+                                        children: "Registration"
                                     }), (0, u.jsx)("p", {
-                                        children: "Commencement of event by lightning the lamp, followed by the welcoming of the judges and sponsors."
+                                        children: " "
                                     })]
                                 }), (0, u.jsxs)("li", {
                                     className: "event",
-                                    "data-date": "10:15 AM - 11:00 AM",
+                                    "data-date": "01:00 AM - 2:30 AM",
                                     "data-aos": "fade-up",
                                     children: [(0, u.jsx)("h3", {
-                                        children: "Keynote"
+                                        children: "Problem Statement"
                                     }), (0, u.jsx)("p", {
-                                        children: "Attend our keynote session to gain a clear understanding of AI technologies and explore inquisitive topics."
+                                        children: " "
                                     })]
                                 }), (0, u.jsxs)("li", {
                                     className: "event",
-                                    "data-date": "11:00 AM - 1:15 PM",
+                                    "data-date": "02:00 AM - 03:00 PM",
                                     "data-aos": "fade-up",
                                     children: [(0, u.jsx)("h3", {
-                                        children: "Scan & Hunt and The Smart Playoffs"
+                                        children: "Refreshments"
                                     }), (0, u.jsx)("p", {
-                                        children: "Prepare yourself for Scan & Hunt and The Smart Playoffs. Both the games vary each other as well as complete each other. We got you covered from problem-solving to skill building."
+                                        children: " "
                                     })]
                                 }), (0, u.jsxs)("li", {
                                     className: "event",
-                                    "data-date": "1:15 PM - 2:00 PM",
+                                    "data-date": "03:00 PM - 5:00 PM",
                                     "data-aos": "fade-up",
                                     children: [(0, u.jsx)("h3", {
-                                        children: "Lunch"
+                                        children: "Ideas presentation"
                                     }), (0, u.jsx)("p", {
-                                        children: "Take a break during lunchtime to relax and rejuvenate before returning to your activities."
+                                        children: " "
                                     })]
                                 }), (0, u.jsxs)("li", {
                                     className: "event",
-                                    "data-date": "2:00 PM - 4:00 PM",
+                                    "data-date": "5:30 PM - _:__ PM",
                                     "data-aos": "fade-up",
                                     children: [(0, u.jsx)("h3", {
-                                        children: "Workshop"
+                                        children: "End of the Day"
                                     }), (0, u.jsx)("p", {
-                                        children: "Be prepared to dive deep into the oceans of knowledge imparted by the mentors in our workshop session to gain the most of AI."
+                                        children: ""
                                     })]
-                                }), (0, u.jsxs)("li", {
-                                    className: "event",
-                                    "data-date": "4:00 PM - 4:15 PM",
-                                    "data-aos": "fade-up",
-                                    children: [(0, u.jsx)("h3", {
-                                        children: "Break"
-                                    }), (0, u.jsx)("p", {
-                                        children: "Take a break to rest and recharge."
-                                    })]
-                                }), (0, u.jsxs)("li", {
-                                    className: "event",
-                                    "data-date": "4:15 PM - 5:30 PM",
-                                    "data-aos": "fade-up",
-                                    children: [(0, u.jsx)("h3", {
-                                        children: "Go Algo and Innovation Junction"
-                                    }), (0, u.jsx)("p", {
-                                        children: "Get ready for GoAlgo and Innovation Junction. A junction of games where one will challenge your programming skills whilst the other challenges your innovative skills."
-                                    })]
+                                // }), (0, u.jsxs)("li", {
+                                //     className: "event",
+                                //     "data-date": "4:00 PM - 4:15 PM",
+                                //     "data-aos": "fade-up",
+                                //     children: [(0, u.jsx)("h3", {
+                                //         children: "Break"
+                                //     }), (0, u.jsx)("p", {
+                                //         children: "Take a break to rest and recharge."
+                                //     })]
+                                // }), (0, u.jsxs)("li", {
+                                //     className: "event",
+                                //     "data-date": "4:15 PM - 5:30 PM",
+                                //     "data-aos": "fade-up",
+                                //     children: [(0, u.jsx)("h3", {
+                                //         children: "Go Algo and Innovation Junction"
+                                //     }), (0, u.jsx)("p", {
+                                //         children: "Get ready for GoAlgo and Innovation Junction. A junction of games where one will challenge your programming skills whilst the other challenges your innovative skills."
+                                //     })]
                                 })]
                             })
                         })
@@ -8149,58 +8149,58 @@
                                 className: "timeline",
                                 children: [(0, u.jsxs)("li", {
                                     className: "event",
-                                    "data-date": "10:00 AM - 11:00 AM",
+                                    "data-date": "8:00AM  - 8:00 PM ",
                                     "data-aos": "fade-up",
                                     children: [(0, u.jsx)("h3", {
-                                        children: "Career Roadmap"
+                                        children: "Prototype Developmentp"
                                     }), (0, u.jsx)("p", {
-                                        children: "If you feel you are on a wobbly journey for your career join us at Career Roadmap and get yourself a clear vision for your better future."
+                                        children: ""
                                     })]
                                 }), (0, u.jsxs)("li", {
                                     className: "event",
-                                    "data-date": "11:00 AM - 12:30 PM",
-                                    "data-aos": "fade-up",
-                                    children: [(0, u.jsx)("h3", {
-                                        children: "AI Wizard and Mindscape Preliminary"
-                                    }), (0, u.jsx)("p", {
-                                        children: "All the knowledge and passion for AI has found its junction here at AI Wizard and the Mindscape Preliminary Round. Both the games will challenge your skills in AI to find the best AI enthusiast of all."
-                                    })]
-                                }), (0, u.jsxs)("li", {
-                                    className: "event",
-                                    "data-date": "1:00 PM - 2:00 PM",
+                                    "data-date": "1:00 PM – 3:00 PM ",
                                     "data-aos": "fade-up",
                                     children: [(0, u.jsx)("h3", {
                                         children: "Lunch"
                                     }), (0, u.jsx)("p", {
-                                        children: "Take a break during lunchtime to relax and rejuvenate before returning to your activities."
+                                        children: " "
                                     })]
                                 }), (0, u.jsxs)("li", {
                                     className: "event",
-                                    "data-date": "02:00 PM - 3:30 PM",
+                                    "data-date": "8:00 PM",
                                     "data-aos": "fade-up",
                                     children: [(0, u.jsx)("h3", {
-                                        children: "Panel Discussion"
+                                        children: "End of Day 2"
                                     }), (0, u.jsx)("p", {
-                                        children: "The Panel Discussion would involve a group of experts exchanging their insights and views on the growth of AI with the audiences."
+                                        children: ""
                                     })]
-                                }), (0, u.jsxs)("li", {
-                                    className: "event",
-                                    "data-date": "3:30 PM - 5:00 PM",
-                                    "data-aos": "fade-up",
-                                    children: [(0, u.jsx)("h3", {
-                                        children: "Ai wizard and Mindscape finals"
-                                    }), (0, u.jsx)("p", {
-                                        children: "After showcasing their proficiency in the qualifying rounds, the teams will face the Finals where one of the teams will become the ultimate AI know-it-all."
-                                    })]
-                                }), (0, u.jsxs)("li", {
-                                    className: "event",
-                                    "data-date": "5:00 PM - 5:30 PM",
-                                    "data-aos": "fade-up",
-                                    children: [(0, u.jsx)("h3", {
-                                        children: "Valedictory"
-                                    }), (0, u.jsx)("p", {
-                                        children: "All the winners and runner ups will be felicitated with prizes and more for their amazing performances at Enkryptia"
-                                    })]
+                                // }), (0, u.jsxs)("li", {
+                                //     className: "event",
+                                //     "data-date": "02:00 PM - 3:30 PM",
+                                //     "data-aos": "fade-up",
+                                //     children: [(0, u.jsx)("h3", {
+                                //         children: "Panel Discussion"
+                                //     }), (0, u.jsx)("p", {
+                                //         children: "The Panel Discussion would involve a group of experts exchanging their insights and views on the growth of AI with the audiences."
+                                //     })]
+                                // }), (0, u.jsxs)("li", {
+                                //     className: "event",
+                                //     "data-date": "3:30 PM - 5:00 PM",
+                                //     "data-aos": "fade-up",
+                                //     children: [(0, u.jsx)("h3", {
+                                //         children: "Ai wizard and Mindscape finals"
+                                //     }), (0, u.jsx)("p", {
+                                //         children: "After showcasing their proficiency in the qualifying rounds, the teams will face the Finals where one of the teams will become the ultimate AI know-it-all."
+                                //     })]
+                                // }), (0, u.jsxs)("li", {
+                                //     className: "event",
+                                //     "data-date": "5:00 PM - 5:30 PM",
+                                //     "data-aos": "fade-up",
+                                //     children: [(0, u.jsx)("h3", {
+                                //         children: "Valedictory"
+                                //     }), (0, u.jsx)("p", {
+                                //         children: "All the winners and runner ups will be felicitated with prizes and more for their amazing performances at Enkryptia"
+                                //     })]
                                 })]
                             })
                         })
@@ -8213,7 +8213,8 @@
                     return (0, u.jsxs)("div", {
                         className: $,
                         children: [(0, u.jsx)(s, {
-                            backText: "Timeline",
+                            // backText: "Timeline",
+
                             children: "Timeline"
                         }), (0, u.jsxs)("div", {
                             className: J,
@@ -8223,9 +8224,9 @@
                                     r(!1), q("show")
                                 },
                                 children: (0, u.jsxs)("p", {
-                                    children: ["31", (0, u.jsx)("sup", {
-                                        children: "st"
-                                    }), " March"]
+                                    children: ["26", (0, u.jsx)("sup", {
+                                        children: "th"
+                                    }), " October"]
                                 })
                             }), (0, u.jsx)("div", {
                                 className: Z,
@@ -8233,9 +8234,9 @@
                                     r(!0), q("show")
                                 },
                                 children: (0, u.jsxs)("p", {
-                                    children: ["1", (0, u.jsx)("sup", {
-                                        children: "st"
-                                    }), " April"]
+                                    children: ["28", (0, u.jsx)("sup", {
+                                        children: "th"
+                                    }), " October"]
                                 })
                             })]
                         }), n ? (0, u.jsx)(te, {}) : (0, u.jsx)(ee, {}), (0, u.jsx)("div", {
@@ -8279,7 +8280,7 @@
                     return (0, u.jsxs)("div", {
                         className: re,
                         children: [(0, u.jsx)(s, {
-                            backText: "Speakers",
+                            // backText: "Speakers",
                             children: "Speakers"
                         }), (0, u.jsx)("div", {
                             className: ae,
@@ -8488,7 +8489,7 @@
                     return (0, u.jsxs)("div", {
                         className: Ce,
                         children: [(0, u.jsx)(s, {
-                            backText: "Events",
+                            // backText: "Events",
                             children: "Events"
                         }), (0, u.jsx)("div", {
                             className: Ne,
@@ -8523,7 +8524,7 @@
                     events: "LoadingScreen_events__2Z409"
                 };
             var Re = function() {
-                var t = ["Enkryptia", "Workshops", "Games", "Power Talks", "Fun"],
+                var t = ["Hackathon", "Coding", "Programming", "Competition", "Creativity","Development"],
                     n = K((0, e.useState)(0), 2),
                     r = n[0],
                     a = n[1],
@@ -8640,7 +8641,7 @@
                 },
                 Ue = function() {
                     var t = (new Date).getTime(),
-                        n = new Date("2023-10-24 10:00:00 AM").getTime(),
+                        n = new Date("2023-10-26 10:00:00 AM").getTime(),
                         r = K((0, e.useState)(n - t), 2),
                         a = r[0],
                         i = r[1];
@@ -8711,7 +8712,7 @@
                                             })]
                                         }), (0, u.jsx)("div", {
                                             children: (0, u.jsx)("p", {
-                                                children: "24 August - 26 August"
+                                                children: "26 August - 28 August"
                                             })
                                         })]
                                     }), (0, u.jsxs)("div", {

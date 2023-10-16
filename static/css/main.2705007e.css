@@ -2160,6 +2160,8 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos] {
 .LoadingScreen_loading__oFjPX {
   align-items: center;
   background-color: #010818;
+  /* background: linear-gradient(-45deg, #e250e5, #4b50e6); */
+
   display: flex;
   height: 100vh;
   height: 100%;
@@ -2183,7 +2185,9 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos] {
 }
 .LoadingScreen_loading__oFjPX .LoadingScreen_events__2Z409 {
   -webkit-text-fill-color: transparent;
-  background: linear-gradient(-45deg, #e250e5, #4b50e6);
+  background: linear-gradient(-45deg, #eb3a3a, #3c33e4);
+  /* background-color: #331a7e; */
+
   -webkit-background-clip: text;
   font-size: 100px;
   font-weight: 600;
@@ -2196,8 +2200,7 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos] {
 .footer {
   -webkit-backdrop-filter: blur(2px);
   backdrop-filter: blur(2px);
-  background-color: rgba(137, 203, 241, 0.1);
-  background: transparent;
+  background-color: #010818;
   border-top: 2px solid rgba(70, 175, 235, 0.4);
   color: #fff;
   padding: 30px 0;
@@ -2248,7 +2251,7 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos] {
   font-size: larger;
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  background: linear-gradient(to right, #f32170, #ff6b08, #cf23cf, #eedd44);
+  background: linear-gradient(to right, #ff037d , #5e61fb);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
@@ -2624,11 +2627,9 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos] {
 }
 /*# sourceMappingURL=main.2705007e.css.map*/
 
-// delete the following line if no text is used
-// edit the line if you wanna use other fonts
+
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:700,300);
 
-// use only the available space inside the 400x400 frame
 .frame {
   position: absolute;
   top: 50%;
